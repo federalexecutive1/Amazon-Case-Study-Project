@@ -63,6 +63,12 @@ A dynamic Excel dashboard was created to showcase:
 
 <img width="612" height="450" alt="Amazon dashboard" src="https://github.com/user-attachments/assets/ee208c47-8af0-4a61-b98b-6d0118233e81" />
 
+<img width="983" height="668" alt="Amazon dashboard 4" src="https://github.com/user-attachments/assets/26cf16fe-406a-4875-a03b-f8a9c00c274d" />
+
+<img width="586" height="412" alt="Amazon dashboard 3" src="https://github.com/user-attachments/assets/4abf9e16-2726-4620-8675-9dbde732715a" />
+
+<img width="986" height="746" alt="Amazon dashboard 2" src="https://github.com/user-attachments/assets/b811a059-2c67-4aef-89ee-8514bff476f4" />
+
 
 
 ##### 👤 AUTHOR
