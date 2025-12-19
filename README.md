@@ -62,7 +62,7 @@ A dynamic Excel dashboard was created to showcase:
 #### MY ANALYSIS
 
 
-![image_Alt]()
+![image_Alt](https://github.com/federalexecutive1/Amazon-Case-Study-Project/blob/7a8f5ce4dc89b68ad508c2c33d9be1420a42d77f/Amazon%20dashboard.png)
 
 
 
