@@ -4,7 +4,7 @@ This is where i started my portfolio building after taking a Data Analysis cours
 
 ## PROJECT TOPIC : 🛒 AMAZON PRODUCT REVIEW ANALYSIS
 
-This project was completed as part of my project work, to assess how much i have learnt. I played the role of a Junior Data Analyst at RetailTech Insights, a company that provides e-commerce analytics solutions to sellers on platforms like Amazon. The goal was to analyze product and customer review data to generate actionable insights that support product improvement, marketing strategies, and customer engagement.
+This project was completed as part of my project work, to assess how much i have learnt during my course study with the Incubator Hub. I played the role of a Junior Data Analyst at RetailTech Insights, a company that provides e-commerce analytics solutions to sellers on platforms like Amazon. The goal was to analyze product and customer review data to generate actionable insights that support product improvement, marketing strategies, and customer engagement.
 
 ### 🏢 COMPANY OVERVIEW
 
@@ -66,5 +66,6 @@ A dynamic Excel dashboard was created to showcase:
 ##### 👤 AUTHOR
 
 Nkwado Christian Chukwuka
+
 Data Analyst  
 Exploring how data transforms e-commerce decision-making.
