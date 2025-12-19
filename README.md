@@ -59,7 +59,9 @@ A dynamic Excel dashboard was created to showcase:
 - Top-performing products
 - Review analysis and potential revenue
 
-📷 Screenshot or preview image here
+#### MY ANALYSIS
+
+[Amazon case study ..xlsx](https://github.com/user-attachments/files/24259498/Amazon.case.study.xlsx)
 
 
 ##### 👤 AUTHOR
