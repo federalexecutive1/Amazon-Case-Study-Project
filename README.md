@@ -61,11 +61,6 @@ A dynamic Excel dashboard was created to showcase:
 
 #### MY ANALYSIS
 
-
-![image_Alt](https://github.com/federalexecutive1/Amazon-Case-Study-Project/blob/7a8f5ce4dc89b68ad508c2c33d9be1420a42d77f/Amazon%20dashboard.png)
-
-
-
 <img width="612" height="450" alt="Amazon dashboard" src="https://github.com/user-attachments/assets/ee208c47-8af0-4a61-b98b-6d0118233e81" />
 
 <img width="983" height="668" alt="Amazon dashboard 4" src="https://github.com/user-attachments/assets/26cf16fe-406a-4875-a03b-f8a9c00c274d" />
