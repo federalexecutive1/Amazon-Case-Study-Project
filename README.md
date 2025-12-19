@@ -61,6 +61,8 @@ A dynamic Excel dashboard was created to showcase:
 
 #### MY ANALYSIS
 
+<img width="612" height="450" alt="Amazon dashboard" src="https://github.com/user-attachments/assets/ee208c47-8af0-4a61-b98b-6d0118233e81" />
+
 
 
 ##### 👤 AUTHOR
