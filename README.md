@@ -61,7 +61,6 @@ A dynamic Excel dashboard was created to showcase:
 
 #### MY ANALYSIS
 
-[Amazon case study ..xlsx](https://github.com/user-attachments/files/24259498/Amazon.case.study.xlsx)
 
 
 ##### 👤 AUTHOR
