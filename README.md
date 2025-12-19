@@ -45,8 +45,7 @@ Using Excel pivot tables and calculated columns, the following questions were an
 - Products with higher ratings do not always have the highest review counts.
 - The relationship between discounts and ratings suggests deeper analysis for pricing strategy.
 
-📊 Tools & Techniques
-
+#### 📊 TOOLS & TECHNIQUES
 - Microsoft Excel: Data cleaning, pivot tables, calculated columns [Download here](https://www.microsoft.com/en-us/microsoft-365/download-office?msockid=1588929ca690691432f58401a77468af#download)
 - Data Visualization: Bar charts, KPI cards, scatter plots
 - Dashboard Design: Interactive
