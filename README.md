@@ -70,7 +70,6 @@ A dynamic Excel dashboard was created to showcase:
 <img width="986" height="746" alt="Amazon dashboard 2" src="https://github.com/user-attachments/assets/b811a059-2c67-4aef-89ee-8514bff476f4" />
 
 
-
 ##### 👤 AUTHOR
 
 Nkwado Christian Chukwuka
